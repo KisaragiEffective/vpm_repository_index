@@ -19,11 +19,12 @@
       "entry": "https://SophieBlueVR.github.io/vpm-repos/vpm.json"
     },
     {
-      "author": "Sayabeans",
+      "author": "bdunderesore",
       "entry": "https://vpm.nadena.dev/vpm.json"
     },
     {
       "author": "anatawa12",
+      "git_repository": "https://github.com/anatawa12/vpm.anatawa12.com",
       "entry": "https://vpm.anatawa12.com/vpm.json"
     },
     {
