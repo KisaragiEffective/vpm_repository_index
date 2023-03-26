@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "SPDX-License-Identifier": "CC0-1.0"
+  },
+  "repository": [
+    {
+      "author": "lilxyzw",
+      "git_repository": "https://github.com/lilxyzw/vpm-repos",
+      "entry": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+    },
+    {
+      "author": "kurotu",
+      "git_repository": "https://github.com/kurotu/vpm-repo",
+      "entry": "https://SophieBlueVR.github.io/vpm-repos/vpm.json"
+    },
+    {
+      "author": "SophieBlueVR",
+      "git_repository": "https://github.com/SophieBlueVR/vpm-repos",
+      "entry": "https://SophieBlueVR.github.io/vpm-repos/vpm.json"
+    },
+    {
+      "author": "Sayabeans",
+      "entry": "https://vpm.nadena.dev/vpm.json"
+    },
+    {
+      "author": "anatawa12",
+      "entry": "https://vpm.anatawa12.com/vpm.json"
+    },
+    {
+      "author": "koyashiro",
+      "git_repository": "https://github.com/koyashiro/vpm-repos"
+      "entry": "https://vpm.koyashiro.net/repos.json",
+    }
+  ]
+}
