@@ -29,8 +29,8 @@
     },
     {
       "author": "koyashiro",
-      "git_repository": "https://github.com/koyashiro/vpm-repos"
-      "entry": "https://vpm.koyashiro.net/repos.json",
+      "git_repository": "https://github.com/koyashiro/vpm-repos",
+      "entry": "https://vpm.koyashiro.net/repos.json"
     }
   ]
 }
