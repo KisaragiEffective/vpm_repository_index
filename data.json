@@ -31,6 +31,12 @@
       "author": "koyashiro",
       "git_repository": "https://github.com/koyashiro/vpm-repos",
       "entry": "https://vpm.koyashiro.net/repos.json"
+    },
+    {
+      "author": "ureishi",
+      "git_repository": "https://github.com/ureishi/vpm-repos",
+      "entry": "https://vpm.ureishi.net/"
     }
+    
   ]
 }
