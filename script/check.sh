@@ -48,6 +48,14 @@ while read -r git_repository_entry; do
 done < "$tmp_tsv"
 rm "$tmp_tsv"
 
+# duplicate check by repository URL
+count="$(jq -r '[.repository[].entry] | length')"
+count_uniq="$(jq -r '[.repository[].entry] | unique | length')"
+
+if [ "$count" != "$count_uniq" ]; then
+  die "Duplicated URL(s) are detected. This is not allowed."
+fi
+
 # protocol
 vpm_repo_json_urls="$(jq -r '[.repository[].entry] | @tsv' < "$data")"
 
