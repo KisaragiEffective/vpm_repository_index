@@ -72,6 +72,17 @@
           "path": "/repos.json"
         }
       ]
+    },
+    {
+      "author": "meronmks",
+      "git_repository": "https://github.com/meronmks/vpm-repos",
+      "entry": "https://meronmks.github.io/vpm-repos/vpm.json",
+      "entry_git": [
+        {
+          "commit_sha1_long": "c14449ef2293996d19db7e7f57a4a7286a1a2b29",
+          "path": "/vpm.json"
+        }
+      ]
     }
   ]
 }
