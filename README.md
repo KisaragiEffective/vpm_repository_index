@@ -23,6 +23,7 @@ The key words "***MUST***", "***MUST NOT***", "***REQUIRED***", "***SHALL***", "
         * (each array element) - Every element ***MUST*** point valid VPM repository file by their information. This field ***MAY*** not contain latest information, and therefore there's risk to believe that there are no update according to those entries. **USE AT YOUR OWN PERIL!!**
           * `commit_sha1_long`: `Sha1` - The commit hash of git commit. this hash ***MUST*** be valid SHA-1 value. This hash ***MUST*** be contained in `git_repository`.
           * `path`: `FilePath` - The file path, relative to repository root. The value ***MUST*** starts with forward slash (`/`).
+      * `description`: `String` - Free format, but value ***SHOULD*** contain meaningful information that cannot be covered by existent fields.
 
 ## License
 Creative Commons Zero, version 1.0
