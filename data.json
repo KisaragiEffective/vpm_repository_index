@@ -86,7 +86,25 @@
     },
     {
       "author": "mimyquality",
-      "entry": "https://vpm.mimylab.com/index.json",
+      "entry": "https://vpm.mimylab.com/index.json"
+    },
+    {
+      "author": "Thryrallo",
+      "entry": "https://thryrallo.github.io/VRC-Avatar-Performance-Tools/"
+    },
+    {
+      "author": "kurotu",
+      "entry": "https://kurotu.github.io/VRCQuestTools/index.json"
+    },
+    {
+      "author": "VRChat",
+      "description": "VRChat/Curated",
+      "entry": "https://vrchat-community.github.io/vpm-listing-curated/index.json"
+    },
+    {
+      "author": "VRChat",
+      "description": "VRChat/Official",
+      "entry": "https://vrchat.github.io/packages/index.json"
     }
   ]
 }
