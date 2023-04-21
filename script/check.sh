@@ -46,7 +46,7 @@ while read -r git_repository_entry; do
     fi
   }
 done < "$tmp_tsv"
-rm -r git_repository_cache
+rm -r "$git_repository_cache"
 rm "$tmp_tsv"
 
 # duplicate check by repository URL
