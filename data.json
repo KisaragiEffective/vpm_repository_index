@@ -83,6 +83,10 @@
           "path": "/vpm.json"
         }
       ]
+    },
+    {
+      "author": "mimyquality",
+      "entry": "https://vpm.mimylab.com/index.json",
     }
   ]
 }
