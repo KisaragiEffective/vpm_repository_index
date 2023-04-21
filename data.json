@@ -10,7 +10,7 @@
       "entry_git": [
         {
           "commit_sha1_long": "281652259caaae1401ba5feac0ed0cba5365d5e6",
-          "path": "/index.json"
+          "path": "/vpm.json"
         }
       ]
     },
@@ -21,7 +21,7 @@
       "entry_git": [
         {
           "commit_sha1_long": "af5c371b5bb64081f1dc177d973d1e61b365f060",
-          "path": "/vpm.json",
+          "path": "/vpm.json"
         }
       ]
     },
@@ -65,7 +65,7 @@
     {
       "author": "ureishi",
       "git_repository": "https://github.com/ureishi/vpm-repos",
-      "entry": "https://vpm.ureishi.net/",
+      "entry": "https://vpm.ureishi.net/repos.json",
       "entry_git": [
         {
           "commit_sha1_long": "63e2c15bc8f48dcf39e612cd6a1502c148dbcfea",
