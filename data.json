@@ -6,17 +6,35 @@
     {
       "author": "lilxyzw",
       "git_repository": "https://github.com/lilxyzw/vpm-repos",
-      "entry": "https://lilxyzw.github.io/vpm-repos/vpm.json"
+      "entry": "https://lilxyzw.github.io/vpm-repos/vpm.json",
+      "entry_git": [
+        {
+          "commit_sha1_long": "281652259caaae1401ba5feac0ed0cba5365d5e6",
+          "path": "/index.json"
+        }
+      ]
     },
     {
       "author": "kurotu",
       "git_repository": "https://github.com/kurotu/vpm-repo",
-      "entry": "https://kurotu.github.io/vpm-repos/vpm.json"
+      "entry": "https://kurotu.github.io/vpm-repos/vpm.json",
+      "entry_git": [
+        {
+          "commit_sha1_long": "af5c371b5bb64081f1dc177d973d1e61b365f060",
+          "path": "/vpm.json",
+        }
+      ]
     },
     {
       "author": "SophieBlueVR",
       "git_repository": "https://github.com/SophieBlueVR/vpm-repos",
-      "entry": "https://SophieBlueVR.github.io/vpm-repos/vpm.json"
+      "entry": "https://SophieBlueVR.github.io/vpm-repos/vpm.json",
+      "entry_git": [
+        {
+          "commit_sha1_long": "68bea823819c86e7f5633faa5788fa63ad5d7415",
+          "path": "/vpm.json"
+        }
+      ]
     },
     {
       "author": "bdunderescore",
@@ -25,18 +43,35 @@
     {
       "author": "anatawa12",
       "git_repository": "https://github.com/anatawa12/vpm.anatawa12.com",
-      "entry": "https://vpm.anatawa12.com/vpm.json"
+      "entry": "https://vpm.anatawa12.com/vpm.json",
+      "entry_git": [
+        {
+          "commit_sha1_long": "77af5a95a37081401991a10b862e307a0d4a992f",
+          "path": "/vpm.src.json"
+        }
+      ]
     },
     {
       "author": "koyashiro",
       "git_repository": "https://github.com/koyashiro/vpm-repos",
-      "entry": "https://vpm.koyashiro.net/repos.json"
+      "entry": "https://vpm.koyashiro.net/repos.json",
+      "entry_git": [
+        {
+          "commit_sha1_long": "182414a2f64c716382557d2b60eb956ec16506b1",
+          "path": "/repos.json"
+        }
+      ]
     },
     {
       "author": "ureishi",
       "git_repository": "https://github.com/ureishi/vpm-repos",
-      "entry": "https://vpm.ureishi.net/"
+      "entry": "https://vpm.ureishi.net/",
+      "entry_git": [
+        {
+          "commit_sha1_long": "63e2c15bc8f48dcf39e612cd6a1502c148dbcfea",
+          "path": "/repos.json"
+        }
+      ]
     }
-    
   ]
 }
