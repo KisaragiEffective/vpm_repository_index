@@ -105,6 +105,10 @@
       "author": "VRChat",
       "description": "VRChat/Official",
       "entry": "https://vrchat.github.io/packages/index.json"
+    },
+    {
+      "author": "whiteflare",
+      "entry": "https://whiteflare.github.io/vpm-repos/vpm.json"
     }
   ]
 }
