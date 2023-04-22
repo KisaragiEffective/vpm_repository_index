@@ -108,7 +108,14 @@
     },
     {
       "author": "whiteflare",
-      "entry": "https://whiteflare.github.io/vpm-repos/vpm.json"
+      "entry": "https://whiteflare.github.io/vpm-repos/vpm.json",
+      "git_repository": "https://github.com/whiteflare/vpm-repos",
+      "entry_git": [
+        {
+          "commit_sha1_long": "b94b6fe5a97c3bb26cb39b99178b905758715b1e",
+          "path": "/docs/vpm.json"
+        }
+      ]
     }
   ]
 }
