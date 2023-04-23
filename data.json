@@ -105,6 +105,17 @@
       "author": "VRChat",
       "description": "VRChat/Official",
       "entry": "https://vrchat.github.io/packages/index.json"
+    },
+    {
+      "author": "whiteflare",
+      "entry": "https://whiteflare.github.io/vpm-repos/vpm.json",
+      "git_repository": "https://github.com/whiteflare/vpm-repos",
+      "entry_git": [
+        {
+          "commit_sha1_long": "3ad17f969b1cd48c8efef2af992a282866084eca",
+          "path": "/docs/vpm.json"
+        }
+      ]
     }
   ]
 }
